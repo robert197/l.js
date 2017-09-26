@@ -1,0 +1,26 @@
+{
+  "name": "l",
+  "version": "0.0.1",
+  "description": "tiniest script for lazy developers to replace console.log with just an l",
+  "main": "l.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert197/l.js.git"
+  },
+  "keywords": [
+    "console.log",
+    "l.js",
+    "l",
+    "logging",
+    "lazy"
+  ],
+  "author": "robert.p1991@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/robert197/l.js/issues"
+  },
+  "homepage": "https://github.com/robert197/l.js#readme"
+}
