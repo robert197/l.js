@@ -1,5 +1,5 @@
 {
-  "name": "l",
+  "name": "just-l",
   "version": "0.0.1",
   "description": "tiniest script for lazy developers to replace console.log with just an l",
   "main": "l.js",
