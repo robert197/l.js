@@ -1,6 +1,6 @@
 {
   "name": "just-l",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "tiniest script for lazy developers to replace console.log with just an l",
   "main": "l.js",
   "scripts": {
